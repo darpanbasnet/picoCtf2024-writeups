@@ -9,4 +9,4 @@ This writeup covers a collection of solutions for various challenges from the **
 3. [Cryptography](#cryptography)
 4. [Web Exploitation](#web-exploitation)
 5. [Forensics](#forensics)
-6. [Miscellaneous](#miscellaneous)
+6. [General Skills](#General-Skills)
